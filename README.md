@@ -25,10 +25,15 @@
  The program checks if the user guessed any sequences
  
  A sequence must include two or more numbers and must not have gaps
+ 
  A two-number sequence wins €70,000
+ 
  A three-number sequence is €400,000
+ 
  A four-number sequence is €1,000,000
+ 
  A five-number sequence is €5,000,000
  
  Third way
+ 
  If the user correctly guessed the sum of all winning numbers, they win €300,000
